@@ -101,7 +101,6 @@ export function ObjectPage() {
         duration: 0.5
       }}
       className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-
       <nav className="flex text-sm text-muted mb-8" aria-label="Breadcrumb">
         <ol className="flex items-center space-x-2">
           <li>
